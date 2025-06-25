@@ -1,0 +1,1378 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\logica\\inscripcionlogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\logica\\inscripcionlogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\logica\\favoritoslogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\logica\\favoritoslogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\logica\\dashboardlogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\logica\\dashboardlogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\logica\\checkinlogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\logica\\checkinlogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\datos\\eventodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\datos\\eventodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\logica\\competencialogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\logica\\competencialogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1BE391-284D-457B-A46A-15411927AE58}|GestionEventos.API.Tests\\GestionEventos.API.Tests.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api.tests\\eventologicatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1BE391-284D-457B-A46A-15411927AE58}|GestionEventos.API.Tests\\GestionEventos.API.Tests.csproj|solutionrelative:gestioneventos.api.tests\\eventologicatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1BE391-284D-457B-A46A-15411927AE58}|GestionEventos.API.Tests\\GestionEventos.API.Tests.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api.tests\\usuariologicatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1BE391-284D-457B-A46A-15411927AE58}|GestionEventos.API.Tests\\GestionEventos.API.Tests.csproj|solutionrelative:gestioneventos.api.tests\\usuariologicatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1BE391-284D-457B-A46A-15411927AE58}|GestionEventos.API.Tests\\GestionEventos.API.Tests.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api.tests\\inscripcionlogicatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1BE391-284D-457B-A46A-15411927AE58}|GestionEventos.API.Tests\\GestionEventos.API.Tests.csproj|solutionrelative:gestioneventos.api.tests\\inscripcionlogicatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\datos\\actividaddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\datos\\actividaddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\datos\\inscripciondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\datos\\inscripciondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\logica\\eventologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\logica\\eventologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\datos\\equipodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\datos\\equipodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\datos\\competenciadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\datos\\competenciadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\datos\\categoriadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\datos\\categoriadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\dtos\\eventodetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\dtos\\eventodetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\controllers\\actividadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\controllers\\actividadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\dtos\\eventopublicodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\dtos\\eventopublicodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\datos\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\datos\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\dtos\\pagoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\dtos\\pagoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\dtos\\pagodetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\dtos\\pagodetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\datos\\preguntasrespuestasdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\datos\\preguntasrespuestasdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\datos\\resenadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\datos\\resenadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\controllers\\resenascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\controllers\\resenascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\controllers\\preguntasrespuestascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\controllers\\preguntasrespuestascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\controllers\\perfilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\controllers\\perfilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\controllers\\inscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\controllers\\inscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\controllers\\favoritoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\controllers\\favoritoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\controllers\\competenciascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\controllers\\competenciascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\logica\\usuariologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\logica\\usuariologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\logica\\resenalogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\logica\\resenalogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\logica\\preguntasrespuestaslogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\logica\\preguntasrespuestaslogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\logica\\perfillogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\logica\\perfillogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\logica\\pagologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\logica\\pagologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\datos\\pagodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\datos\\pagodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\datos\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\datos\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\datos\\dashboarddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\datos\\dashboarddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\dtos\\dashboard\\dashboardrenglonventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\dtos\\dashboard\\dashboardrenglonventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\dtos\\dashboard\\dashboardparticipantedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\dtos\\dashboard\\dashboardparticipantedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\dtos\\dashboard\\dashboardeventodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\dtos\\dashboard\\dashboardeventodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\dtos\\dashboard\\dashboardequipodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\dtos\\dashboard\\dashboardequipodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\dtos\\dashboard\\dashboardcompetenciadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\dtos\\dashboard\\dashboardcompetenciadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\dtos\\solicitarrecuperacionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\dtos\\solicitarrecuperacionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\dtos\\solicitarrecuperacionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\dtos\\solicitarrecuperacionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\dtos\\perfilinscripcionesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\dtos\\perfilinscripcionesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\dtos\\inscripcionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\dtos\\inscripcionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\dtos\\iniciarpagoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\dtos\\iniciarpagoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\dtos\\favoritosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\dtos\\favoritosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\dtos\\favoritorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\dtos\\favoritorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\dtos\\crearcompetenciarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\dtos\\crearcompetenciarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\dtos\\confirmarpagorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\dtos\\confirmarpagorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\dtos\\competenciapublicadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\dtos\\competenciapublicadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\dtos\\checkinrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\dtos\\checkinrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\dtos\\actualizarperfilrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\dtos\\actualizarperfilrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\dtos\\actualizareventorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\dtos\\actualizareventorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\dtos\\actualizarcompetenciarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\dtos\\actualizarcompetenciarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\dtos\\actividadbusquedadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\dtos\\actividadbusquedadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\tiposentradacompetencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\tiposentradacompetencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\tiposentrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\tiposentrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\resena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\resena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\qnadocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\qnadocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\preguntaseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\preguntaseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\pregunta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\pregunta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\creareventorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\creareventorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\modelos\\competencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\modelos\\competencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api\\gestioneventos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B9B3EEC-CC77-44A2-95AE-D1CCAE953E98}|GestionEventos.API\\GestionEventos.API.csproj|solutionrelative:gestioneventos.api\\gestioneventos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1BE391-284D-457B-A46A-15411927AE58}|GestionEventos.API.Tests\\GestionEventos.API.Tests.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb notes\\gestor-eventos\\backend\\gestioneventos.api\\gestioneventos.api.tests\\gestioneventos.api.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5F1BE391-284D-457B-A46A-15411927AE58}|GestionEventos.API.Tests\\GestionEventos.API.Tests.csproj|solutionrelative:gestioneventos.api.tests\\gestioneventos.api.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventoLogicaTests.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API.Tests\\EventoLogicaTests.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API.Tests\\EventoLogicaTests.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API.Tests\\EventoLogicaTests.cs",
+              "RelativeToolTip": "GestionEventos.API.Tests\\EventoLogicaTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T21:15:24.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardLogica.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Logica\\DashboardLogica.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Logica\\DashboardLogica.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Logica\\DashboardLogica.cs",
+              "RelativeToolTip": "GestionEventos.API\\Logica\\DashboardLogica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T19:26:55.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CompetenciaLogica.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Logica\\CompetenciaLogica.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Logica\\CompetenciaLogica.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Logica\\CompetenciaLogica.cs",
+              "RelativeToolTip": "GestionEventos.API\\Logica\\CompetenciaLogica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:53:55.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Datos\\EventoDAO.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Datos\\EventoDAO.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Datos\\EventoDAO.cs",
+              "RelativeToolTip": "GestionEventos.API\\Datos\\EventoDAO.cs",
+              "ViewState": "AgIAAHYBAAAAAAAAAAAUwLUBAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T01:33:56.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckInLogica.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Logica\\CheckInLogica.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Logica\\CheckInLogica.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Logica\\CheckInLogica.cs",
+              "RelativeToolTip": "GestionEventos.API\\Logica\\CheckInLogica.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T17:29:04.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FavoritosLogica.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Logica\\FavoritosLogica.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Logica\\FavoritosLogica.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Logica\\FavoritosLogica.cs",
+              "RelativeToolTip": "GestionEventos.API\\Logica\\FavoritosLogica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T08:20:27.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InscripcionLogica.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Logica\\InscripcionLogica.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Logica\\InscripcionLogica.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Logica\\InscripcionLogica.cs",
+              "RelativeToolTip": "GestionEventos.API\\Logica\\InscripcionLogica.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:17:18.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InscripcionLogicaTests.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API.Tests\\InscripcionLogicaTests.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API.Tests\\InscripcionLogicaTests.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API.Tests\\InscripcionLogicaTests.cs",
+              "RelativeToolTip": "GestionEventos.API.Tests\\InscripcionLogicaTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T23:04:19.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EventoLogica.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Logica\\EventoLogica.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Logica\\EventoLogica.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Logica\\EventoLogica.cs",
+              "RelativeToolTip": "GestionEventos.API\\Logica\\EventoLogica.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:50:35.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EquipoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Datos\\EquipoDAO.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Datos\\EquipoDAO.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Datos\\EquipoDAO.cs",
+              "RelativeToolTip": "GestionEventos.API\\Datos\\EquipoDAO.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowHMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T17:06:21.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Datos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Datos\\Conexion.cs",
+              "RelativeToolTip": "GestionEventos.API\\Datos\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T08:12:46.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CompetenciaDAO.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Datos\\CompetenciaDAO.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Datos\\CompetenciaDAO.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Datos\\CompetenciaDAO.cs",
+              "RelativeToolTip": "GestionEventos.API\\Datos\\CompetenciaDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T03:24:31.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoriaDAO.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Datos\\CategoriaDAO.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Datos\\CategoriaDAO.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Datos\\CategoriaDAO.cs",
+              "RelativeToolTip": "GestionEventos.API\\Datos\\CategoriaDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T08:11:49.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioLogicaTests.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API.Tests\\UsuarioLogicaTests.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API.Tests\\UsuarioLogicaTests.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API.Tests\\UsuarioLogicaTests.cs",
+              "RelativeToolTip": "GestionEventos.API.Tests\\UsuarioLogicaTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T21:16:04.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InscripcionDAO.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Datos\\InscripcionDAO.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Datos\\InscripcionDAO.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Datos\\InscripcionDAO.cs",
+              "RelativeToolTip": "GestionEventos.API\\Datos\\InscripcionDAO.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T17:05:59.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ActividadDAO.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Datos\\ActividadDAO.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Datos\\ActividadDAO.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Datos\\ActividadDAO.cs",
+              "RelativeToolTip": "GestionEventos.API\\Datos\\ActividadDAO.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T23:23:24.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EventoDetalleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\EventoDetalleDTO.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\DTOs\\EventoDetalleDTO.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\EventoDetalleDTO.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\DTOs\\EventoDetalleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T01:30:26.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ActividadesController.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Controllers\\ActividadesController.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Controllers\\ActividadesController.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Controllers\\ActividadesController.cs",
+              "RelativeToolTip": "GestionEventos.API\\Controllers\\ActividadesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T08:22:02.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "GestionEventos.API\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T03:58:07.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UploadController.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Controllers\\UploadController.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Controllers\\UploadController.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Controllers\\UploadController.cs",
+              "RelativeToolTip": "GestionEventos.API\\Controllers\\UploadController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T08:23:56.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EventoPublicoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\EventoPublicoDTO.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\DTOs\\EventoPublicoDTO.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\EventoPublicoDTO.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\DTOs\\EventoPublicoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T08:08:55.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\Evento.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\Evento.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\Evento.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\Evento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T23:24:14.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UsuarioDAO.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Datos\\UsuarioDAO.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Datos\\UsuarioDAO.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Datos\\UsuarioDAO.cs",
+              "RelativeToolTip": "GestionEventos.API\\Datos\\UsuarioDAO.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAswJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T06:57:51.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PagoItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\PagoItemDTO.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\DTOs\\PagoItemDTO.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\PagoItemDTO.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\DTOs\\PagoItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:08:50.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PagoDetalleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\PagoDetalleDTO.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\DTOs\\PagoDetalleDTO.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\PagoDetalleDTO.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\DTOs\\PagoDetalleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:09:11.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\Pago.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\Pago.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\Pago.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\Pago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:25:41.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Inscripcion.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\Inscripcion.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\Inscripcion.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\Inscripcion.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\Inscripcion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T17:02:01.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PreguntasRespuestasDAO.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Datos\\PreguntasRespuestasDAO.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Datos\\PreguntasRespuestasDAO.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Datos\\PreguntasRespuestasDAO.cs",
+              "RelativeToolTip": "GestionEventos.API\\Datos\\PreguntasRespuestasDAO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T01:23:09.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ResenaDAO.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Datos\\ResenaDAO.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Datos\\ResenaDAO.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Datos\\ResenaDAO.cs",
+              "RelativeToolTip": "GestionEventos.API\\Datos\\ResenaDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:42:23.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Program.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Program.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Program.cs",
+              "RelativeToolTip": "GestionEventos.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T03:56:37.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PreguntasRespuestasController.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Controllers\\PreguntasRespuestasController.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Controllers\\PreguntasRespuestasController.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Controllers\\PreguntasRespuestasController.cs",
+              "RelativeToolTip": "GestionEventos.API\\Controllers\\PreguntasRespuestasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T01:24:07.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PerfilController.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Controllers\\PerfilController.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Controllers\\PerfilController.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Controllers\\PerfilController.cs",
+              "RelativeToolTip": "GestionEventos.API\\Controllers\\PerfilController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:33:02.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ResenasController.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Controllers\\ResenasController.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Controllers\\ResenasController.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Controllers\\ResenasController.cs",
+              "RelativeToolTip": "GestionEventos.API\\Controllers\\ResenasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:43:07.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PagosController.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Controllers\\PagosController.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Controllers\\PagosController.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Controllers\\PagosController.cs",
+              "RelativeToolTip": "GestionEventos.API\\Controllers\\PagosController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:31:12.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "InscripcionesController.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Controllers\\InscripcionesController.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Controllers\\InscripcionesController.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Controllers\\InscripcionesController.cs",
+              "RelativeToolTip": "GestionEventos.API\\Controllers\\InscripcionesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:18:08.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FavoritosController.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Controllers\\FavoritosController.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Controllers\\FavoritosController.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Controllers\\FavoritosController.cs",
+              "RelativeToolTip": "GestionEventos.API\\Controllers\\FavoritosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T08:22:53.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EventosController.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Controllers\\EventosController.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Controllers\\EventosController.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Controllers\\EventosController.cs",
+              "RelativeToolTip": "GestionEventos.API\\Controllers\\EventosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T23:11:31.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "GestionEventos.API\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T19:27:18.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CompetenciasController.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Controllers\\CompetenciasController.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Controllers\\CompetenciasController.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Controllers\\CompetenciasController.cs",
+              "RelativeToolTip": "GestionEventos.API\\Controllers\\CompetenciasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:56:18.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UsuarioLogica.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Logica\\UsuarioLogica.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Logica\\UsuarioLogica.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Logica\\UsuarioLogica.cs",
+              "RelativeToolTip": "GestionEventos.API\\Logica\\UsuarioLogica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T08:21:38.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PerfilLogica.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Logica\\PerfilLogica.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Logica\\PerfilLogica.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Logica\\PerfilLogica.cs",
+              "RelativeToolTip": "GestionEventos.API\\Logica\\PerfilLogica.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:32:19.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PreguntasRespuestasLogica.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Logica\\PreguntasRespuestasLogica.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Logica\\PreguntasRespuestasLogica.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Logica\\PreguntasRespuestasLogica.cs",
+              "RelativeToolTip": "GestionEventos.API\\Logica\\PreguntasRespuestasLogica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T01:23:36.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ResenaLogica.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Logica\\ResenaLogica.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Logica\\ResenaLogica.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Logica\\ResenaLogica.cs",
+              "RelativeToolTip": "GestionEventos.API\\Logica\\ResenaLogica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:42:41.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PagoLogica.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Logica\\PagoLogica.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Logica\\PagoLogica.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Logica\\PagoLogica.cs",
+              "RelativeToolTip": "GestionEventos.API\\Logica\\PagoLogica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:22:35.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PagoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Datos\\PagoDAO.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Datos\\PagoDAO.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Datos\\PagoDAO.cs",
+              "RelativeToolTip": "GestionEventos.API\\Datos\\PagoDAO.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAgwKEAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:30:03.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MongoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Datos\\MongoDbContext.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Datos\\MongoDbContext.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Datos\\MongoDbContext.cs",
+              "RelativeToolTip": "GestionEventos.API\\Datos\\MongoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:41:27.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DashboardDAO.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Datos\\DashboardDAO.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Datos\\DashboardDAO.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Datos\\DashboardDAO.cs",
+              "RelativeToolTip": "GestionEventos.API\\Datos\\DashboardDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T19:20:24.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DashboardRenglonVentaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\Dashboard\\DashboardRenglonVentaDTO.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\DTOs\\Dashboard\\DashboardRenglonVentaDTO.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\Dashboard\\DashboardRenglonVentaDTO.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\DTOs\\Dashboard\\DashboardRenglonVentaDTO.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T19:19:28.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DashboardParticipanteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\Dashboard\\DashboardParticipanteDTO.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\DTOs\\Dashboard\\DashboardParticipanteDTO.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\Dashboard\\DashboardParticipanteDTO.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\DTOs\\Dashboard\\DashboardParticipanteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T19:19:11.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DashboardEventoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\Dashboard\\DashboardEventoDTO.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\DTOs\\Dashboard\\DashboardEventoDTO.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\Dashboard\\DashboardEventoDTO.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\DTOs\\Dashboard\\DashboardEventoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T08:10:48.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DashboardCompetenciaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\Dashboard\\DashboardCompetenciaDTO.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\DTOs\\Dashboard\\DashboardCompetenciaDTO.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\Dashboard\\DashboardCompetenciaDTO.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\DTOs\\Dashboard\\DashboardCompetenciaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T19:20:10.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DashboardEquipoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\Dashboard\\DashboardEquipoDTO.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\DTOs\\Dashboard\\DashboardEquipoDTO.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\Dashboard\\DashboardEquipoDTO.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\DTOs\\Dashboard\\DashboardEquipoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T19:19:42.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SolicitarRecuperacionResponse.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\SolicitarRecuperacionResponse.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\DTOs\\SolicitarRecuperacionResponse.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\SolicitarRecuperacionResponse.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\DTOs\\SolicitarRecuperacionResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:59:32.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SolicitarRecuperacionRequest.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\SolicitarRecuperacionRequest.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\DTOs\\SolicitarRecuperacionRequest.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\SolicitarRecuperacionRequest.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\DTOs\\SolicitarRecuperacionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:59:08.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "PerfilInscripcionesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\PerfilInscripcionesDTO.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\DTOs\\PerfilInscripcionesDTO.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\PerfilInscripcionesDTO.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\DTOs\\PerfilInscripcionesDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:27:50.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "InscripcionRequest.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\InscripcionRequest.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\DTOs\\InscripcionRequest.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\InscripcionRequest.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\DTOs\\InscripcionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:03:38.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IniciarPagoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\IniciarPagoResponse.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\DTOs\\IniciarPagoResponse.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\IniciarPagoResponse.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\DTOs\\IniciarPagoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T17:03:18.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "FavoritosDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\FavoritosDTO.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\DTOs\\FavoritosDTO.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\FavoritosDTO.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\DTOs\\FavoritosDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T08:09:12.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FavoritoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\FavoritoRequest.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\DTOs\\FavoritoRequest.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\FavoritoRequest.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\DTOs\\FavoritoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T08:09:02.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CrearCompetenciaRequest.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\CrearCompetenciaRequest.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\DTOs\\CrearCompetenciaRequest.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\CrearCompetenciaRequest.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\DTOs\\CrearCompetenciaRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T08:08:40.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CompetenciaPublicaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\CompetenciaPublicaDTO.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\DTOs\\CompetenciaPublicaDTO.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\CompetenciaPublicaDTO.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\DTOs\\CompetenciaPublicaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:28:13.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ConfirmarPagoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\ConfirmarPagoRequest.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\DTOs\\ConfirmarPagoRequest.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\ConfirmarPagoRequest.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\DTOs\\ConfirmarPagoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T17:03:29.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ActualizarPerfilRequest.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\ActualizarPerfilRequest.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\DTOs\\ActualizarPerfilRequest.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\ActualizarPerfilRequest.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\DTOs\\ActualizarPerfilRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T07:48:05.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CheckInRequest.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\CheckInRequest.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\DTOs\\CheckInRequest.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\CheckInRequest.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\DTOs\\CheckInRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T06:18:00.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ActualizarEventoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\ActualizarEventoRequest.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\DTOs\\ActualizarEventoRequest.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\ActualizarEventoRequest.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\DTOs\\ActualizarEventoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:17:06.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ActualizarCompetenciaRequest.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\ActualizarCompetenciaRequest.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\DTOs\\ActualizarCompetenciaRequest.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\ActualizarCompetenciaRequest.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\DTOs\\ActualizarCompetenciaRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T08:07:50.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ActividadBusquedaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\ActividadBusquedaDTO.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\DTOs\\ActividadBusquedaDTO.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\DTOs\\ActividadBusquedaDTO.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\DTOs\\ActividadBusquedaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T23:27:33.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\Usuario.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\Usuario.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\Usuario.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T03:43:29.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "TiposEntradaCompetencia.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\TiposEntradaCompetencia.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\TiposEntradaCompetencia.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\TiposEntradaCompetencia.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\TiposEntradaCompetencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:00:25.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Respuesta.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\Respuesta.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\Respuesta.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\Respuesta.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\Respuesta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T23:22:27.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "TiposEntrada.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\TiposEntrada.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\TiposEntrada.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\TiposEntrada.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\TiposEntrada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T04:59:26.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Resena.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\Resena.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\Resena.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\Resena.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\Resena.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:41:53.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "QnADocument.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\QnADocument.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\QnADocument.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\QnADocument.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\QnADocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T23:22:47.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "PreguntaSeguridad.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\PreguntaSeguridad.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\PreguntaSeguridad.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\PreguntaSeguridad.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\PreguntaSeguridad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T03:44:11.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Pregunta.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\Pregunta.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\Pregunta.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\Pregunta.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\Pregunta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T23:22:11.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Equipo.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\Equipo.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\Equipo.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\Equipo.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\Equipo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T17:02:20.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "CrearEventoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\CrearEventoRequest.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\CrearEventoRequest.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\CrearEventoRequest.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\CrearEventoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T08:05:31.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Competencia.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\Competencia.cs",
+              "RelativeDocumentMoniker": "GestionEventos.API\\Modelos\\Competencia.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\Modelos\\Competencia.cs",
+              "RelativeToolTip": "GestionEventos.API\\Modelos\\Competencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:27:47.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "GestionEventos.API.csproj",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\GestionEventos.API.csproj",
+              "RelativeDocumentMoniker": "GestionEventos.API\\GestionEventos.API.csproj",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\GestionEventos.API.csproj",
+              "RelativeToolTip": "GestionEventos.API\\GestionEventos.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-25T06:33:45.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "GestionEventos.API.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API.Tests\\GestionEventos.API.Tests.csproj",
+              "RelativeDocumentMoniker": "GestionEventos.API.Tests\\GestionEventos.API.Tests.csproj",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API.Tests\\GestionEventos.API.Tests.csproj",
+              "RelativeToolTip": "GestionEventos.API.Tests\\GestionEventos.API.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-24T21:16:20.991Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\47b55574-816e-46d4-8c7e-58d5c3f8d7c5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\47b55574-816e-46d4-8c7e-58d5c3f8d7c5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\63448dba-aa8c-429d-b545-2531ea34712e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\63448dba-aa8c-429d-b545-2531ea34712e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\8015c26c-cb55-41a5-8e0e-1e68bfdc76c9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\8015c26c-cb55-41a5-8e0e-1e68bfdc76c9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\83c2716e-7802-4e98-9583-754665931913.jpg",
+      "PackagePath": "staticwebassets\\uploads\\83c2716e-7802-4e98-9583-754665931913.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\873c6292-9ca9-40a1-82b2-36b6c1140f9c.jpg",
+      "PackagePath": "staticwebassets\\uploads\\873c6292-9ca9-40a1-82b2-36b6c1140f9c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\959337df-cc21-4250-adc7-46fe8eae8e8d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\959337df-cc21-4250-adc7-46fe8eae8e8d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\9cbaad9b-cbde-45c4-8e87-1c53a1e66fe7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9cbaad9b-cbde-45c4-8e87-1c53a1e66fe7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\dc155e60-a23c-475b-9f0e-25857fb77797.jpg",
+      "PackagePath": "staticwebassets\\uploads\\dc155e60-a23c-475b-9f0e-25857fb77797.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GestionEventos.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GestionEventos.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GestionEventos.API.props",
+      "PackagePath": "build\\GestionEventos.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GestionEventos.API.props",
+      "PackagePath": "buildMultiTargeting\\GestionEventos.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GestionEventos.API.props",
+      "PackagePath": "buildTransitive\\GestionEventos.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

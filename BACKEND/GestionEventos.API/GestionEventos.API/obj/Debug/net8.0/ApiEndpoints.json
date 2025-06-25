@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "GestionEventos.API.Controllers.UsuariosController",
+    "Method": "IniciarSesion",
+    "RelativePath": "api/Usuarios/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "GestionEventos.API.Controllers.UsuariosController\u002BLoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionEventos.API.Controllers.UsuariosController",
+    "Method": "ListarPreguntas",
+    "RelativePath": "api/Usuarios/preguntas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionEventos.API.Controllers.UsuariosController",
+    "Method": "RegistrarUsuario",
+    "RelativePath": "api/Usuarios/registro",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nuevoUsuario",
+        "Type": "GestionEventos.API.Modelos.Usuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

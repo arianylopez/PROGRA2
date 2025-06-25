@@ -1,0 +1,846 @@
+{
+  "Version": 1,
+  "Hash": "QsSB7bXn4RNopb+xIp3zCbusN+JY0MiMhpM42msu7jE=",
+  "Source": "GestionEventos.API",
+  "BasePath": "_content/GestionEventos.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GestionEventos.API\\wwwroot",
+      "Source": "GestionEventos.API",
+      "ContentRoot": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\",
+      "BasePath": "_content/GestionEventos.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\47b55574-816e-46d4-8c7e-58d5c3f8d7c5.jpg",
+      "SourceId": "GestionEventos.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\",
+      "BasePath": "_content/GestionEventos.API",
+      "RelativePath": "uploads/47b55574-816e-46d4-8c7e-58d5c3f8d7c5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "01bm07m4l4",
+      "Integrity": "rEIM0OpUNSyge4yw0Dm0wgGCcUg9tyh3Ln3dpc8WoZc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\47b55574-816e-46d4-8c7e-58d5c3f8d7c5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\63448dba-aa8c-429d-b545-2531ea34712e.jpg",
+      "SourceId": "GestionEventos.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\",
+      "BasePath": "_content/GestionEventos.API",
+      "RelativePath": "uploads/63448dba-aa8c-429d-b545-2531ea34712e#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rzh5ro0mie",
+      "Integrity": "qToFg71148eX3MhuypxALX+rjNu5sIT0mDKJZOTIvus=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\63448dba-aa8c-429d-b545-2531ea34712e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\8015c26c-cb55-41a5-8e0e-1e68bfdc76c9.jpg",
+      "SourceId": "GestionEventos.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\",
+      "BasePath": "_content/GestionEventos.API",
+      "RelativePath": "uploads/8015c26c-cb55-41a5-8e0e-1e68bfdc76c9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i6zo4ituzm",
+      "Integrity": "5tvMSB94G/nrnbp+456zIYZjvDrgXFAs1as1OnwPzyM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\8015c26c-cb55-41a5-8e0e-1e68bfdc76c9.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\83c2716e-7802-4e98-9583-754665931913.jpg",
+      "SourceId": "GestionEventos.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\",
+      "BasePath": "_content/GestionEventos.API",
+      "RelativePath": "uploads/83c2716e-7802-4e98-9583-754665931913#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "duozli9kpb",
+      "Integrity": "e0ojDim22eeIJFFgdg7nWoV7vTgPS9Isch7ja+mJNAE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\83c2716e-7802-4e98-9583-754665931913.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\873c6292-9ca9-40a1-82b2-36b6c1140f9c.jpg",
+      "SourceId": "GestionEventos.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\",
+      "BasePath": "_content/GestionEventos.API",
+      "RelativePath": "uploads/873c6292-9ca9-40a1-82b2-36b6c1140f9c#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "duozli9kpb",
+      "Integrity": "e0ojDim22eeIJFFgdg7nWoV7vTgPS9Isch7ja+mJNAE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\873c6292-9ca9-40a1-82b2-36b6c1140f9c.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\959337df-cc21-4250-adc7-46fe8eae8e8d.jpg",
+      "SourceId": "GestionEventos.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\",
+      "BasePath": "_content/GestionEventos.API",
+      "RelativePath": "uploads/959337df-cc21-4250-adc7-46fe8eae8e8d#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "01bm07m4l4",
+      "Integrity": "rEIM0OpUNSyge4yw0Dm0wgGCcUg9tyh3Ln3dpc8WoZc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\959337df-cc21-4250-adc7-46fe8eae8e8d.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\9cbaad9b-cbde-45c4-8e87-1c53a1e66fe7.jpg",
+      "SourceId": "GestionEventos.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\",
+      "BasePath": "_content/GestionEventos.API",
+      "RelativePath": "uploads/9cbaad9b-cbde-45c4-8e87-1c53a1e66fe7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9827xt1x9j",
+      "Integrity": "Cayx20Nj/D5QzYiBMqyIjkJFzmZXiyoxma6fEgOS5bo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\9cbaad9b-cbde-45c4-8e87-1c53a1e66fe7.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\dc155e60-a23c-475b-9f0e-25857fb77797.jpg",
+      "SourceId": "GestionEventos.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\",
+      "BasePath": "_content/GestionEventos.API",
+      "RelativePath": "uploads/dc155e60-a23c-475b-9f0e-25857fb77797#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sc2bdj5ith",
+      "Integrity": "rAlMdEUj+bZl9MvAOwa8BiNhiBY/kmGospOUftmyy4Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\dc155e60-a23c-475b-9f0e-25857fb77797.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/47b55574-816e-46d4-8c7e-58d5c3f8d7c5.01bm07m4l4.jpg",
+      "AssetFile": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\47b55574-816e-46d4-8c7e-58d5c3f8d7c5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rEIM0OpUNSyge4yw0Dm0wgGCcUg9tyh3Ln3dpc8WoZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 16:05:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "01bm07m4l4"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/47b55574-816e-46d4-8c7e-58d5c3f8d7c5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rEIM0OpUNSyge4yw0Dm0wgGCcUg9tyh3Ln3dpc8WoZc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/47b55574-816e-46d4-8c7e-58d5c3f8d7c5.jpg",
+      "AssetFile": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\47b55574-816e-46d4-8c7e-58d5c3f8d7c5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rEIM0OpUNSyge4yw0Dm0wgGCcUg9tyh3Ln3dpc8WoZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 16:05:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rEIM0OpUNSyge4yw0Dm0wgGCcUg9tyh3Ln3dpc8WoZc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/63448dba-aa8c-429d-b545-2531ea34712e.jpg",
+      "AssetFile": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\63448dba-aa8c-429d-b545-2531ea34712e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "167289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qToFg71148eX3MhuypxALX+rjNu5sIT0mDKJZOTIvus=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 16:25:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qToFg71148eX3MhuypxALX+rjNu5sIT0mDKJZOTIvus="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/63448dba-aa8c-429d-b545-2531ea34712e.rzh5ro0mie.jpg",
+      "AssetFile": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\63448dba-aa8c-429d-b545-2531ea34712e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "167289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qToFg71148eX3MhuypxALX+rjNu5sIT0mDKJZOTIvus=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 16:25:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rzh5ro0mie"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/63448dba-aa8c-429d-b545-2531ea34712e.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qToFg71148eX3MhuypxALX+rjNu5sIT0mDKJZOTIvus="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/8015c26c-cb55-41a5-8e0e-1e68bfdc76c9.i6zo4ituzm.jpg",
+      "AssetFile": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\8015c26c-cb55-41a5-8e0e-1e68bfdc76c9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64573"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5tvMSB94G/nrnbp+456zIYZjvDrgXFAs1as1OnwPzyM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 16:20:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i6zo4ituzm"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/8015c26c-cb55-41a5-8e0e-1e68bfdc76c9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5tvMSB94G/nrnbp+456zIYZjvDrgXFAs1as1OnwPzyM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/8015c26c-cb55-41a5-8e0e-1e68bfdc76c9.jpg",
+      "AssetFile": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\8015c26c-cb55-41a5-8e0e-1e68bfdc76c9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64573"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5tvMSB94G/nrnbp+456zIYZjvDrgXFAs1as1OnwPzyM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 16:20:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5tvMSB94G/nrnbp+456zIYZjvDrgXFAs1as1OnwPzyM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/83c2716e-7802-4e98-9583-754665931913.duozli9kpb.jpg",
+      "AssetFile": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\83c2716e-7802-4e98-9583-754665931913.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "176641"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0ojDim22eeIJFFgdg7nWoV7vTgPS9Isch7ja+mJNAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 16:03:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "duozli9kpb"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/83c2716e-7802-4e98-9583-754665931913.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e0ojDim22eeIJFFgdg7nWoV7vTgPS9Isch7ja+mJNAE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/83c2716e-7802-4e98-9583-754665931913.jpg",
+      "AssetFile": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\83c2716e-7802-4e98-9583-754665931913.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "176641"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0ojDim22eeIJFFgdg7nWoV7vTgPS9Isch7ja+mJNAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 16:03:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e0ojDim22eeIJFFgdg7nWoV7vTgPS9Isch7ja+mJNAE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/873c6292-9ca9-40a1-82b2-36b6c1140f9c.duozli9kpb.jpg",
+      "AssetFile": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\873c6292-9ca9-40a1-82b2-36b6c1140f9c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "176641"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0ojDim22eeIJFFgdg7nWoV7vTgPS9Isch7ja+mJNAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 15:44:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "duozli9kpb"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/873c6292-9ca9-40a1-82b2-36b6c1140f9c.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e0ojDim22eeIJFFgdg7nWoV7vTgPS9Isch7ja+mJNAE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/873c6292-9ca9-40a1-82b2-36b6c1140f9c.jpg",
+      "AssetFile": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\873c6292-9ca9-40a1-82b2-36b6c1140f9c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "176641"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0ojDim22eeIJFFgdg7nWoV7vTgPS9Isch7ja+mJNAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 15:44:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e0ojDim22eeIJFFgdg7nWoV7vTgPS9Isch7ja+mJNAE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/959337df-cc21-4250-adc7-46fe8eae8e8d.01bm07m4l4.jpg",
+      "AssetFile": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\959337df-cc21-4250-adc7-46fe8eae8e8d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rEIM0OpUNSyge4yw0Dm0wgGCcUg9tyh3Ln3dpc8WoZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 15:48:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "01bm07m4l4"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/959337df-cc21-4250-adc7-46fe8eae8e8d.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rEIM0OpUNSyge4yw0Dm0wgGCcUg9tyh3Ln3dpc8WoZc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/959337df-cc21-4250-adc7-46fe8eae8e8d.jpg",
+      "AssetFile": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\959337df-cc21-4250-adc7-46fe8eae8e8d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rEIM0OpUNSyge4yw0Dm0wgGCcUg9tyh3Ln3dpc8WoZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 15:48:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rEIM0OpUNSyge4yw0Dm0wgGCcUg9tyh3Ln3dpc8WoZc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/9cbaad9b-cbde-45c4-8e87-1c53a1e66fe7.9827xt1x9j.jpg",
+      "AssetFile": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\9cbaad9b-cbde-45c4-8e87-1c53a1e66fe7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "649999"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cayx20Nj/D5QzYiBMqyIjkJFzmZXiyoxma6fEgOS5bo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 16:22:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9827xt1x9j"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/9cbaad9b-cbde-45c4-8e87-1c53a1e66fe7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cayx20Nj/D5QzYiBMqyIjkJFzmZXiyoxma6fEgOS5bo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/9cbaad9b-cbde-45c4-8e87-1c53a1e66fe7.jpg",
+      "AssetFile": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\9cbaad9b-cbde-45c4-8e87-1c53a1e66fe7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "649999"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cayx20Nj/D5QzYiBMqyIjkJFzmZXiyoxma6fEgOS5bo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 16:22:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cayx20Nj/D5QzYiBMqyIjkJFzmZXiyoxma6fEgOS5bo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/dc155e60-a23c-475b-9f0e-25857fb77797.jpg",
+      "AssetFile": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\dc155e60-a23c-475b-9f0e-25857fb77797.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "679764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rAlMdEUj+bZl9MvAOwa8BiNhiBY/kmGospOUftmyy4Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 16:17:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rAlMdEUj+bZl9MvAOwa8BiNhiBY/kmGospOUftmyy4Y="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/dc155e60-a23c-475b-9f0e-25857fb77797.sc2bdj5ith.jpg",
+      "AssetFile": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB NOTES\\GESTOR-EVENTOS\\BACKEND\\GestionEventos.API\\GestionEventos.API\\wwwroot\\uploads\\dc155e60-a23c-475b-9f0e-25857fb77797.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "679764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rAlMdEUj+bZl9MvAOwa8BiNhiBY/kmGospOUftmyy4Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 16:17:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sc2bdj5ith"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/dc155e60-a23c-475b-9f0e-25857fb77797.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rAlMdEUj+bZl9MvAOwa8BiNhiBY/kmGospOUftmyy4Y="
+        }
+      ]
+    }
+  ]
+}
